@@ -1,0 +1,11 @@
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\bin\Debug\net8.0\CDCatalog.Domain.deps.json
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\bin\Debug\net8.0\CDCatalog.Domain.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\bin\Debug\net8.0\CDCatalog.Domain.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.AssemblyInfo.cs
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\refint\CDCatalog.Domain.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\CDCatalog.Domain.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Domain\obj\Debug\net8.0\ref\CDCatalog.Domain.dll

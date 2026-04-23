@@ -1,0 +1,6 @@
+@CDCatalog.Presentation_HostAddress = http://localhost:5097
+
+GET {{CDCatalog.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Infrastructure.Memory.deps.json
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Infrastructure.Memory.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Infrastructure.Memory.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Application.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Domain.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Domain.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\bin\Debug\net8.0\CDCatalog.Application.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.csproj.AssemblyReference.cache
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.AssemblyInfoInputs.cache
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.AssemblyInfo.cs
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.csproj.CoreCompileInputs.cache
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalo.46EDDE9D.Up2Date
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\refint\CDCatalog.Infrastructure.Memory.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\CDCatalog.Infrastructure.Memory.pdb
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Infrastructure\CDCatalog.Infrastructure.Memory\obj\Debug\net8.0\ref\CDCatalog.Infrastructure.Memory.dll

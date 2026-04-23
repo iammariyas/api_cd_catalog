@@ -1,0 +1,36 @@
+{
+  "CDs": [
+    {
+      "Title": "Play My Game",
+      "Artist": "TIM RIPPER OWENS",
+      "Year": 2009,
+      "Id": 1,
+      "Songs": [
+        {
+          "Title": "string",
+          "FirstName_Artist": "string",
+          "LastName_Artist": "string",
+          "Id": 3,
+          "Duration": 0,
+          "CDId": 1
+        }
+      ]
+    },
+    {
+      "Title": "string",
+      "Artist": "string",
+      "Year": 0,
+      "Id": 4,
+      "Songs": []
+    },
+    {
+      "Title": "string",
+      "Artist": "string",
+      "Year": 0,
+      "Id": 5,
+      "Songs": []
+    }
+  ],
+  "NextCdId": 6,
+  "NextSongId": 5
+}
