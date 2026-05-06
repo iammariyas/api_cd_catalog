@@ -13,3 +13,4 @@ C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Application\obj\
 C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Application\obj\Debug\net8.0\refint\CDCatalog.Application.dll
 C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Application\obj\Debug\net8.0\CDCatalog.Application.pdb
 C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Application\obj\Debug\net8.0\ref\CDCatalog.Application.dll
+C:\Users\Maria\api_cd_catalog\api_cd_catalog\src\Core\CDCatalog.Application\obj\Debug\net8.0\CDCatalog.Application.sourcelink.json

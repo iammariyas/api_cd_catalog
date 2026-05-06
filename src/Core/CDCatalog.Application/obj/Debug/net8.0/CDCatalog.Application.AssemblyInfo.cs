@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDCatalog.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaf30300a89612ee000f9949bd6dbfebca457659")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDCatalog.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDCatalog.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
